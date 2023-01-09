@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: 'Nova Round', cursive;
+    background-color: rgb(214, 214, 214);
+    color: black;
+}
+
+.heading h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900px;
+    font-family: 'Nova Round', cursive;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: underline; 
+    position: relative;
+    top: 50px;
+}
+ 
+
+table{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+table tr td{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+table tr .GP{
+    text-align: center;
+    width: 30px; 
+}
+
+.tbl2{
+    width: 80%;
+    margin-top: 0%;
+    text-align: center;
+    border: none;
+    margin-left: 170px;
+}
+.tbl2 tr{
+    width: 35px;
+    height: 35px;
+    border: 2px solid black;
+}
+.series{
+    border: none;
+    width: 100px;
+}
+
+.ON{
+    background-color: rgb(51, 170, 245);
+    font-weight: bold;
+    color: black;
+}
+
+.OM{
+    background-color: rgb(215, 54, 230);
+    font-weight: bold;
+    color: black;
+}
+
+.TM{
+    background-color: rgb(255, 77, 145);
+    font-weight: bold;
+    color: black;
+}
+
+.AEM{
+    background-color: rgb(172, 255, 48);
+    font-weight: bold;
+    color: black;
+}
+
+.AM{
+    background-color: rgb(53, 251, 53);
+    font-weight: bold;
+    color: black;
+}
+
+.NG{
+    background-color: rgb(255, 255, 31);
+    font-weight: bold;
+    color: black;
+}
+
+.Hg{
+    background-color: rgb(27, 255, 190);
+    font-weight: bold;
+    color: black;
+}
+
+.RMLE{
+    background-color: rgb(255, 169, 8);
+    font-weight: bold;
+    color: black;
+}
+
+.AE{
+    background-color: rgb(255, 83, 83);
+    font-weight: bold;
+    color: black;
+}
